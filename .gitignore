@@ -1,0 +1,10 @@
+# Editor derictories and file
+.vscode
+*.sw?
+.idea
+.suo
+node_modules
+*.log
+*ntvs*
+.env.
+*.njsproj
